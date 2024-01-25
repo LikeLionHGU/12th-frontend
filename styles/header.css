@@ -10,9 +10,10 @@
 
 /* font-family: 'Noto Sans', sans-serif; */
 
-.header {
+html,
+body {
   margin: 0;
-  font-family: "JalnanGothic", sans-serif;
+  max-width: 100%;
 }
 
 .header a {
@@ -21,6 +22,9 @@
 }
 
 .header {
+  margin: 0;
+  font-family: "JalnanGothic", sans-serif;
+
   display: flex;
   justify-content: space-between;
   align-items: center;

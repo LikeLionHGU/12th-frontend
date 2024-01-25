@@ -20,7 +20,7 @@ const members = [
     title: "Every dog has his days",
     githuNickname: "HansungJang",
     selfPR:
-      "저는 말하기 좋아하고,\n음식을 좋아하는 개발자 장한성입니다.\n퀵커머스와 시니어 비즈니스와 관련된\n주제에 관심이 많답니다.\n저는 자료조사에 뛰어나고 열정이 엄청나답니다.\n멋쟁이사자처럼에서\n다양한 개발 경험을 쌓기를 희망하고 있어요!\n잘 부탁드립니다!😁",
+      "저는 말하기 좋아하고,음식을 좋아하는 \n개발자 장한성입니다.퀵커머스와 시니어 비즈니스와\n 관련된 주제에 관심이 많답니다. \n멋쟁이사자처럼에서 다양한 개발 경험을 쌓기를\n 희망하고 있어요! 잘 부탁드립니다!😁",
     linkColor: "rgba(0, 140, 255, 0.5)",
     githuNicknameColor: "rgba(120, 195, 255, 0.5)",
     titlCcolor: "rgba(249, 239, 128, 0.6)",
@@ -69,10 +69,10 @@ const members = [
     link: "https://haeoii.github.io/basic-setting/",
     github: "https://github.com/HAEOII",
     image: "img/김하은.jpg",
-    title: "Think different",
-    githuNickname: "Leehannaa",
+    title: "simple and happy",
+    githuNickname: "HAEOII",
     selfPR:
-      "다른 생각으로 발전해나가는 개발자, 이한나입니다. \n3주간의 기간 동안 협력하여 우리만의 프로젝트를 완성시켜 나가겠습니다.🔥\n‘당당한 개발자, 새로운 개발자’ 모습에 한 발자국 더 가까워져 있는 모습을 기대합니다.👊🏻",
+      " 단순하고 행복하게! 개발자 김하은입니다 \n깊게 생각하고 스트레스 받고 고민하기보다는\n내가 좋아하는 일에 무모하게 뛰어들어 부딪치고 싶어요!\n최선을 다해 또 행복하게 몰두하고 싶습니다 😎\n멋쟁이 사자에서, 해내는 아기사자 되겠습니다💥",
     linkColor: "rgba(0, 85, 255, 0.4)",
     githuNicknameColor: "rgba(120, 195, 255, 0.5)",
     titlCcolor: "rgba(249, 227, 128, 0.4)",

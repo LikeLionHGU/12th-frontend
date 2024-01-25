@@ -1,7 +1,10 @@
 .footer {
+
+  padding: 40px;
+  padding-top: 20px;
   border: 5px solid;
   background-color: black;
-  padding-bottom: 30px;
+
   font-family: "JalnanGothic";
 }
 
@@ -13,7 +16,7 @@
   max-width: 100%;
 }
 
-#title-footer {
+.footer #title-footer {
   color: rgb(255, 255, 255);
   font-size: 1.5rem;
   font-weight: 958;
@@ -21,8 +24,8 @@
 
 /*소속, 주소 설명 요인*/
 .footer #likelionAddress-footer {
-  line-height: 1.5;
-  font-size: 1rem;
+  line-height: 1.25;
+  font-size: 0.7rem;
   font-weight: 400;
   color: rgb(255, 255, 255);
   line-height: 0.8;
@@ -78,3 +81,4 @@
 .footer #web-official a:hover {
   background: url("https://i.ibb.co/GMZVSv2/Result.png") -60px -30px;
 }
+
