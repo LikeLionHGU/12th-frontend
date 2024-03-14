@@ -129,6 +129,19 @@ const members = [
     githuNicknameColor: "rgba(120, 195, 255, 0.5)",
     titlCcolor: "rgba(241, 249, 128, 0.5)",
   },
+  {
+    name: "🎵 최혜림",
+    link: "https://healim01.github.io/web-introduction/html/",
+    github: "https://github.com/healim01",
+    image: "img/김하영.jpg",
+    title: "Practice makes perfect.",
+    githuNickname: "healim01",
+    selfPR:
+      "안녕하세요, 열심히 노력하는 개발자 김하영입니다.\n계속해서 질문하고, 공부하다 보면\n결국 제가 해결하고자 하는 문제를\n해결할 수 있다고 생각합니다.\n이제는 노력을 넘어\n실력도 쌓아가는 아기 사자가 되겠습니다! 🫡",
+    linkColor: "rgba(0, 140, 255, 0.5)",
+    githuNicknameColor: "rgba(120, 195, 255, 0.5)",
+    titlCcolor: "rgba(241, 249, 128, 0.5)",
+  },
 ];
 
 const membersNode = document.querySelector("div.members");
